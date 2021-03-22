@@ -1,2 +1,1 @@
-# Kickstarter
-Kickstarter Data Analysis 
+# Kickstarter-Funding Data Analysis 
